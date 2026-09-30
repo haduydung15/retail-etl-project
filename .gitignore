@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+pr-venv/
+pr-venv312/
+output/
+*.xlsx
+.vscode/
+*.ipynb
+Python Collections for Data Engineering/
